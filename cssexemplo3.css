@@ -1,0 +1,10 @@
+h1,h2,h3,h4,h5,h6.cabeçalho {
+    color: aqua;
+    background-color: blueviolet;
+    font-family: 'Courier';
+    border: 3px solid purple;
+    border-radius: 8px;
+}
+body.background {
+    background-color: rgb(131, 215, 9);
+}
